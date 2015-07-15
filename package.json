@@ -1,0 +1,11 @@
+{
+  "name": "node-compass-sprite",
+  "version": "0.0.1",
+  "description": "Adds compass sprite functionality to node-sass",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Gabriel Laet",
+  "license": "MIT"
+}
